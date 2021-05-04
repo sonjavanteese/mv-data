@@ -1,17 +1,8 @@
 {
 	"bt_comp": [
 		{
-			"id": "?",
+			"id": "1",
 			"recipient": {
-				"name": "Recipient name",
-				"address": "Recipient address"
-			},
-			"services": [
-				{
-					"description": "\n                Description of service provided\n              ",
-					"amount": "Amount"
-				}
-			],
 			"obj_k1": "Pid",
 			"obj_k2": "Name",
 			"obj_k3": "Path",
