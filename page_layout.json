@@ -21,7 +21,15 @@
 			"obj_k7": "Op1",
 			"tab_rows": {
 				"obj_keys": [
-					{}
+					{
+						"p_id": "1",
+						"name": "Studio",
+						"path": "/studio",
+						"icon": "icon",
+						"icon_cl": "@icon_cl",
+						"typ": "main",
+						"op1": "1"
+					}
 				]
 			}
 		}
