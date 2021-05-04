@@ -1,1 +1,17 @@
-{}
+{
+	"bt_comp": [
+		{
+			"id": "?",
+			"recipient": {
+				"name": "Recipient name",
+				"address": "Recipient address"
+			},
+			"services": [
+				{
+					"description": "\n                Description of service provided\n              ",
+					"amount": "Amount"
+				}
+			]
+		}
+	]
+}
