@@ -11,7 +11,19 @@
 					"description": "\n                Description of service provided\n              ",
 					"amount": "Amount"
 				}
-			]
+			],
+			"obj_k1": "Pid",
+			"obj_k2": "Name",
+			"obj_k3": "Path",
+			"obj_k4": "Icon",
+			"obj_k5": "IconCl",
+			"obj_k6": "Type",
+			"obj_k7": "Op1",
+			"tab_rows": {
+				"obj_keys": [
+					{}
+				]
+			}
 		}
 	]
 }
