@@ -1,0 +1,31 @@
+{
+	"event": [{
+		"talk": [
+			{
+				"title": "Writing code for humans",
+				"type": "Talk",
+				"video": "https://nwp-cgn.de/img/video/p1.mp4",
+				"slides": "https://nwp-cgn.de/img/poser/img1.png"
+			},
+			{
+				"title": "TBD",
+				"type": "Talk"
+			}
+		],
+		"url": "https://www.devbreak.io/",
+		"name": "DevBreak",
+		"date": "2021-09-09",
+		"city": "Bouville",
+		"country": "fr"
+	}],
+	"project": [
+		{
+			"url": "https://mavo.io",
+			"image": "https://mavo.io/logo.svg",
+			"name": "Mavo",
+			"description": "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend. \nDeveloped in the Haystack Group at MIT CSAIL and led by Lea Verou.",
+			"blogPost": "https://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/",
+			"repo": "mavoweb/mavo"
+		}
+	]
+}
