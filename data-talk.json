@@ -1,37 +1,62 @@
 {
-	"event": [
-		{
-			"talk": [
-				{
-					"title": "XXX",
-					"type": "Talk",
-					"video": "https://nwp-cgn.de/img/video/p1.mp4",
-					"slides": "https://nwp-cgn.de/img/poser/img1.png"
-				}
-			],
-			"url": "https://www.devbreak.io/",
-			"name": "DevBreak",
-			"date": "2021-09-09",
-			"city": "Bouville",
-			"country": "fr"
-		}
-	],
-	"project": [
-		{
-			"url": "https://mavo.io",
-			"image": "https://mavo.io/logo.svg",
-			"name": "Mavo",
-			"description": "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend. \nDeveloped in the Haystack Group at MIT CSAIL and led by Lea Verou.",
-			"blogPost": "https://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/",
-			"repo": "mavoweb/mavo"
-		},
-		{
-			"url": "http://blissfuljs.com/",
-			"image": "https://lea.verou.me/wp-content/uploads/2015/12/Screen-Shot-2015-12-04-at-16.59.39-300x127.png",
-			"name": "Bliss",
-			"description": "Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you.",
-			"blogPost": "https://lea.verou.me/2015/12/introducing-bliss-a-3kb-library-for-happier-vanilla-js/",
-			"repo": "leaverou/bliss"
-		}
-	]
+  "event": [
+    {
+      "talk": [
+        {
+          "title": "XXX",
+          "type": "Talk",
+          "video": "https://nwp-cgn.de/img/video/p1.mp4",
+          "slides": "https://nwp-cgn.de/img/poser/img1.png"
+        }
+      ],
+      "url": "https://www.devbreak.io/",
+      "name": "DevBreak",
+      "date": "2021-09-09",
+      "city": "Bouville",
+      "country": "fr"
+    }
+  ],
+  "projekte": [
+    {
+      "active": true,
+      "typ": "session",
+      "tags": "blackburn, studio",
+      "year": "10/21",
+      "titel": "Klepper TeaParty 1",
+      "desc": "Crossdresser Teeparty Teaser",
+      "poster": "https://nwp-cgn.de/147/dd/klepper46.svg",
+      "video": "https://nwp-cgn.de/147/dd/klepper-session-4.1.mp4",
+      "album": [
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--01.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--02.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--03.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--04.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--05.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--06.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--07.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--08.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--09.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--10.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--11.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--12.jpg",
+        "https://nwp-cgn.de/147/dd/klep1sm/kleps-ses--13.jpg"
+      ],
+      "slider": [
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--01.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--02.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--03.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--04.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--05.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--06.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--07.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--08.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--09.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--10.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--11.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--12.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/kleps-ses--13.png",
+        "https://nwp-cgn.de/147/dd/klep1xl/poster.png"
+      ]
+    }
+  ]
 }
