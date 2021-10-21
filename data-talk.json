@@ -1,104 +1,106 @@
 {
-	"event": [{
-		"talk": [
-			{
-				"title": "Writing code for humans",
-				"type": "Talk",
-				"video": "https://nwp-cgn.de/img/video/p1.mp4",
-				"slides": "https://nwp-cgn.de/img/poser/img1.png"
-			},
-			{
-				"title": "TBD",
-				"type": "Talk"
-			}
-		],
-		"url": "https://www.devbreak.io/",
-		"name": "DevBreak",
-		"date": "2021-09-09",
-		"city": "Bouville",
-		"country": "fr"
-	},
-	{
-		"talk": [
-			{
-				"title": "JS UX",
-				"type": "Keynote"
-			}
-		],
-		"url": "https://events.codemotion.com/conferences/online/2020/online-tech-conference-italian-edition/",
-		"name": "Codemotion Italia",
-		"date": "2020-11-25",
-		"country": "online"
-	},
-	{
-		"talk": [
-			{
-				"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
-				"type": "Talk"
-			}
-		],
-		"url": "https://fronteers.nl/congres/2019",
-		"name": "Fronteers 2019",
-		"date": "2019-10-04",
-		"city": "Amsterdam",
-		"country": "nl"
-	},
-	{
-		"talk": [
-			{
-				"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
-				"type": "Keynote"
-			},
-			{
-				"title": "CSS and SVG in 2019",
-				"type": "Workshop"
-			}
-		],
-		"url": "https://www.frontendunited.org/frontend-re-united",
-		"name": "Frontend United",
-		"date": "2019-05-16",
-		"city": "Utrecht",
-		"country": "nl"
-	},
-	{
-		"talk": [
-			{
-				"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
-				"type": "Keynote"
-			}
-		],
-		"url": "http://kharkivcss.org/",
-		"name": "KharkivCSS",
-		"date": "2019-04-20",
-		"city": "Kharkiv",
-		"country": "ua"
-	},
-	{
-		"talk": [
-			{
-				"title": "Even More CSS Secrets",
-				"type": "Talk"
-			}
-		],
-		"url": "https://2019.frontendne.co.uk/",
-		"name": "Frontend NE",
-		"date": "2019-04-03",
-		"city": "Newcastle",
-		"country": "gb"
-	},
-	{
-		"talk": [
-			{
-				"title": "Even More CSS Secrets",
-				"type": "Talk"
-			}
-		],
-		"url": "https://summit.ironhack.com/",
-		"name": "Ironhack Global Alumni Summit 2019",
-		"date": "2019-03-01",
-		"city": "Madrid",
-		"country": "es"
-	}],
+	"event": [
+		{
+			"talk": [
+				{
+					"title": "Writing code for humans",
+					"type": "Talk",
+					"video": "https://nwp-cgn.de/img/video/p1.mp4",
+					"slides": "https://nwp-cgn.de/img/poser/img1.png"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "https://www.devbreak.io/",
+			"name": "DevBreak",
+			"date": "2021-09-09",
+			"city": "Bouville",
+			"country": "fr"
+		},
+		{
+			"talk": [
+				{
+					"title": "JS UX",
+					"type": "Keynote"
+				}
+			],
+			"url": "https://events.codemotion.com/conferences/online/2020/online-tech-conference-italian-edition/",
+			"name": "Codemotion Italia",
+			"date": "2020-11-25",
+			"country": "online"
+		},
+		{
+			"talk": [
+				{
+					"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
+					"type": "Talk"
+				}
+			],
+			"url": "https://fronteers.nl/congres/2019",
+			"name": "Fronteers 2019",
+			"date": "2019-10-04",
+			"city": "Amsterdam",
+			"country": "nl"
+		},
+		{
+			"talk": [
+				{
+					"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
+					"type": "Keynote"
+				},
+				{
+					"title": "CSS and SVG in 2019",
+					"type": "Workshop"
+				}
+			],
+			"url": "https://www.frontendunited.org/frontend-re-united",
+			"name": "Frontend United",
+			"date": "2019-05-16",
+			"city": "Utrecht",
+			"country": "nl"
+		},
+		{
+			"talk": [
+				{
+					"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
+					"type": "Keynote"
+				}
+			],
+			"url": "http://kharkivcss.org/",
+			"name": "KharkivCSS",
+			"date": "2019-04-20",
+			"city": "Kharkiv",
+			"country": "ua"
+		},
+		{
+			"talk": [
+				{
+					"title": "Even More CSS Secrets",
+					"type": "Talk"
+				}
+			],
+			"url": "https://2019.frontendne.co.uk/",
+			"name": "Frontend NE",
+			"date": "2019-04-03",
+			"city": "Newcastle",
+			"country": "gb"
+		},
+		{
+			"talk": [
+				{
+					"title": "Even More CSS Secrets",
+					"type": "Talk"
+				}
+			],
+			"url": "https://summit.ironhack.com/",
+			"name": "Ironhack Global Alumni Summit 2019",
+			"date": "2019-03-01",
+			"city": "Madrid",
+			"country": "es"
+		}
+	],
 	"project": [
 		{
 			"url": "https://mavo.io",
